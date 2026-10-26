@@ -1,7 +1,3 @@
-markdown
-
-````
-
 # Sending HTML Emails in PHP
 
 ## Overview
@@ -88,8 +84,4 @@ It includes multiple recipients, email headers, CC recipients, and an HTML messa
 **Sangwin Gawande**
 
 Website: [https://sangw.in](https://sangw.in)
-
----
-
-Cheers!!
 ````
